@@ -1,0 +1,4 @@
+# Ignore the following directories
+ex3/ex3datasets/__pycache__
+ex3/ex3featureextractor/__pycache__
+ex3/ex3svc/__pycache__

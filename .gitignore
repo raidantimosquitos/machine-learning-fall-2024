@@ -1,0 +1,14 @@
+# __pycache__ and dataset directories
+ASS02-SupportVectorMachines/iris_dataset
+ASS02-SupportVectorMachines/titanic_dataset
+ASS07-LSTM_and_CNN/__pycache__
+ASS07-LSTM_and_CNN/data/FashionMNIST
+ASS08-LSTM_and_RNN/__pycache__
+ASS08-LSTM_and_RNN/data/processed
+ASS08-LSTM_and_RNN/data/raw
+ASS08-LSTM_and_RNN/data/labels.csv
+ASS10-CBAM_CNN/data/MNIST
+
+# CSV files
+*.csv
+

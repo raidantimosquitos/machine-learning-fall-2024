@@ -1,0 +1,4 @@
+# Ignore the following directories
+data/
+__pycache__/
+models/__pycache__/
